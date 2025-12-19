@@ -12,3 +12,4 @@ exclude_paths:
     - .idea/
     - .tox/
     - collections/
+    # Note: rhel-8 playbooks are not part of this test suite (not supported on RHEL 8)

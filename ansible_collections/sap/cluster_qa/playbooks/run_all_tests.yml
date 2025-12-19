@@ -68,4 +68,3 @@
       ansible.builtin.debug:
         msg: "Test suite execution completed: test01 through test09 (test07 skipped)"
       run_once: true
-
