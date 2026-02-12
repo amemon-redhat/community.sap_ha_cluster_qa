@@ -10,7 +10,6 @@ ignore:
   - changelogs/changelog.yaml
   - .tox/
   - node_modules
-  - "**/test07/files/**"
 
 rules:
   line-length:

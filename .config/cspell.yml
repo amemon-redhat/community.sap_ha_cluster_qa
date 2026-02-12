@@ -23,4 +23,3 @@ ignorePaths:
   - "**/__pycache__/**"
   - "**/*.pyc"
   - build/
-  - "**/test07/files/**"

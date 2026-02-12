@@ -11,4 +11,3 @@ exclude_paths:
     - .github/
     - .idea/
     - .tox/
-    - "**/test07/files/**"
